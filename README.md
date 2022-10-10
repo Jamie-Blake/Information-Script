@@ -1,2 +1,2 @@
-# Public-Scripts
-Public Scripts for everyone 
+# Information Script
+Informations scirpt for your fivem server
